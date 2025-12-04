@@ -33,7 +33,7 @@ limitations under the License.
 
 [![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
-> Calculate the maximum value of a one-dimensional ndarray according to a mask, ignoring NaN values.
+> Calculate the maximum value of a one-dimensional ndarray according to a mask, ignoring `NaN` values.
 
 <section class="intro">
 
